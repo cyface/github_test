@@ -3,5 +3,5 @@ This file is an experiment
 """
 
 
-def myfunc():
-    """THis func is funky"""
+def my_func():
+    """This func is funky"""
